@@ -1,5 +1,5 @@
 ---
-title: An Undergraduate in NYCU EE
+title: As a student
 ---
 # 113-1 交大電機系 大一上 修課紀錄
 ## 微積分(一)
