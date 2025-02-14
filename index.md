@@ -7,7 +7,7 @@ layout: page
 <ul>
   Lead a Life in the College!
     <li>
-      <a href="{ https://hazel-1212.github.io/113-1/class }">113-1 交大電機系 大一上 修課紀錄 </a>
+      <a href="https://hazel-1212.github.io/113-1/class">113-1 交大電機系 大一上 修課紀錄 </a>
     </li>
   Author : Hazel Chen | 2025
 </ul>
