@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 # About
 <img src="/Brown%20Yellow%20Cat%20Logo.png" width="200">
